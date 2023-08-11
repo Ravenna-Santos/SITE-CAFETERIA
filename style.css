@@ -181,7 +181,7 @@
 .parallax5 h2 {
     position: absolute;
     margin: 0 auto;
-    top: 20%;
+    top: 5%;
     right: 0;
     left: 0;
     font-family: "Oswald", sans-serif;
@@ -222,7 +222,7 @@
 }
 
 .lista li p,
-.span { 
+span { 
     position: absolute;
     top: 0;
     right: 0;
@@ -230,7 +230,7 @@
     font-family: "Oswald", sans-serif;
 }
 
-.span {
+span {
     color: #c4a47c;
 }
 
